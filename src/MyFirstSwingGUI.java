@@ -42,6 +42,7 @@ label.setIcon(loadImage());
 		//13. Re-pack the JFrame object.
 frame.pack();		
 		//14. Run the program one more time. Do you see the image?
+//YES
 	}
 	
 	public static ImageIcon loadImage(){
